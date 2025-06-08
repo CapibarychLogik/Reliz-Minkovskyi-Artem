@@ -51,6 +51,7 @@ h6:hover {
     border: 5px solid rgb(64, 64, 148);
     text-align: center;
     font-size: 35px;
-    box-shadow: 8px 11px rgb(184, 184, 233);
+    box-shadow: 10px 11px rgb(184, 184, 233);
+    transition: 2s linear;
 }
     
